@@ -1,0 +1,15 @@
+G:\RentACar\RentACar\RentACar\bin\Debug\RentACar.exe.config
+G:\RentACar\RentACar\RentACar\bin\Debug\RentACar.exe
+G:\RentACar\RentACar\RentACar\bin\Debug\RentACar.pdb
+G:\RentACar\RentACar\RentACar\obj\Debug\RentACar.csproj.AssemblyReference.cache
+G:\RentACar\RentACar\RentACar\obj\Debug\RentACar.csproj.SuggestedBindingRedirects.cache
+G:\RentACar\RentACar\RentACar\obj\Debug\RentACar.Form1.resources
+G:\RentACar\RentACar\RentACar\obj\Debug\RentACar.Properties.Resources.resources
+G:\RentACar\RentACar\RentACar\obj\Debug\RentACar.csproj.GenerateResource.cache
+G:\RentACar\RentACar\RentACar\obj\Debug\RentACar.csproj.CoreCompileInputs.cache
+G:\RentACar\RentACar\RentACar\obj\Debug\RentACar.exe
+G:\RentACar\RentACar\RentACar\obj\Debug\RentACar.pdb
+G:\RentACar\RentACar\RentACar\obj\Debug\RentACar.Form2.resources
+G:\RentACar\RentACar\RentACar\obj\Debug\RentACar.Form3.resources
+G:\RentACar\RentACar\RentACar\bin\Debug\Database1.mdf
+G:\RentACar\RentACar\RentACar\bin\Debug\Database1_log.ldf

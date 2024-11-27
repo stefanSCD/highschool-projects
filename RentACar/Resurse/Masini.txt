@@ -1,0 +1,21 @@
+Audi,A3,50,Automata,Benzina,6,5
+Audi,A4,60,Automata,Diesel,5.5,5
+Audi,Q5,80,Automata,Hibrid,4,5
+BMW,Serie 3,55,Manuala,Benzina,7,5
+BMW,X1,70,Automata,Diesel,6,5
+BMW,Serie 5,85,Automata,Hibrid,3.5,5
+Volkswagen,Golf,45,Manuala,Benzina,6.5,5
+Volkswagen,Passat,65,Automata,Diesel,5,5
+Volkswagen,Touareg,90,Automata,Hibrid,4.5,5
+Hyundai,i30,40,Manuala,Benzina,6.8,5
+Hyundai,Tucson,55,Automata,Diesel,5.2,5
+Hyundai,Ioniq,75,Automata,Hibrid,3.4,5
+Opel,Corsa,35,Manuala,Benzina,6.2,5
+Opel,Astra,50,Automata,Diesel,4.8,5
+Opel,Grandland X,70,Automata,Hibrid,4.2,5
+Skoda,Octavia,40,Manuala,Benzina,6.5,5
+Skoda,Superb,60,Automata,Diesel,5,5
+Skoda,Enyaq,80,Automata,Hibrid,3.8,5
+Renault,Clio,35,Manuala,Benzina,6.5,5
+Renault,Megane,55,Automata,Diesel,4.8,5
+Renault,Captur,70,Automata,Hibrid,4.2,5
